@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GetFileSc.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConfigName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Config.ini</Value>
+    </Setting>
+    <Setting Name="OraTNS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=vmdwh02)(PORT=1521))(CONNECT_DATA=(SERVER=dedicated)(SID=STAB)));User ID=sync;Password=sync</Value>
+    </Setting>
+    <Setting Name="RNItemLastWords1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ПРЕРЕКВИЗИТЫ</Value>
+    </Setting>
+    <Setting Name="RNItemLastWords2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ВО ВРЕМЯ УСТАНОВКИ</Value>
+    </Setting>
+    <Setting Name="RNItemLastWords3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ПОСЛЕ ИНКРЕМЕНТА</Value>
+    </Setting>
+    <Setting Name="RNItemLastWords4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ЦИКЛИЧЕСКАЯ ЗАГРУЗКА)</Value>
+    </Setting>
+    <Setting Name="RNItemLastWords5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">К ПРИМЕРУ, ДЛЯ СРЕДЫ ФТ)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
